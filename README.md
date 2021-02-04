@@ -9,3 +9,7 @@ dataset : UCI IHEPC
 2) LSTM
 3) CNN-LSTM
 4) CNN-GRU-Bayes
+
+
+
+https://machinelearningmastery.com/how-to-develop-an-autoregression-forecast-model-for-household-electricity-consumption/
