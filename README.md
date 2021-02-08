@@ -13,3 +13,5 @@ dataset : UCI IHEPC
 
 
 https://machinelearningmastery.com/how-to-develop-an-autoregression-forecast-model-for-household-electricity-consumption/
+
+https://github.com/PranayKr/Smart-Meter-Data-Analytics
