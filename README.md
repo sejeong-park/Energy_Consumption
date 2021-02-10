@@ -1,6 +1,6 @@
 # Energy_Consumption
 
-Smart_metering 다변수 시계열 예측문제 삽질하는 거 올리는 저장소
+Smart_metering 다변수 시계열 예측를 위해 연습하는 저장소
 
 dataset : UCI IHEPC
 
